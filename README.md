@@ -2,23 +2,7 @@
 
 Slackr Group 31
 
-![](book.png)
-
-Slackr Group 31
-
 External link to .apk
-
-[CLOUD LINK
-HERE!](https://www.dropbox.com/s/c5zeuc7gxwqg8ai/slackr31%20%28min%20api%2029%29.apk?dl=0!)
-
-External link to source zip via Github
-
-[GITHUB LINK HERE!](https://github.com/PurePureMilk/Slackr)
-
-External link to source zip via Dropbox
-
-[CLOUD LINK
-HERE!](https://www.dropbox.com/s/gkyis5vvl2114sv/slackr-20201210t031223z-001.zip?dl=0)
 
 App Description: We will create a social networking application allowing
 students to connect with other students to be study partners, tutors,
@@ -34,14 +18,6 @@ can weed out certain people they are not interested in this organized
 fashion. How users get to know each other is by making profiles. Users
 are required to make an account and have the necessary valid
 information.
-
-![](register.PNG)
-
-![](profile.PNG)
-
-![](cards.PNG)
-
-![](groupchat.PNG)
 
 External link to YouTube video:
 
