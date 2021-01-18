@@ -2,8 +2,6 @@
 
 Slackr Group 31
 
-External link to .apk
-
 App Description: We will create a social networking application allowing
 students to connect with other students to be study partners, tutors,
 peer mentors, or form a study group. The goal of this application is to
